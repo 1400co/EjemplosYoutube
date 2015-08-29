@@ -12,3 +12,6 @@ C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\W
 C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.pdb
 C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM_MarkupCompile.lref
+D:\github\EjemplosYoutube\WpfMvvM\WpfMvvM\bin\Debug\WpfMvvM.exe.config
+D:\github\EjemplosYoutube\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.exe
+D:\github\EjemplosYoutube\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.pdb
