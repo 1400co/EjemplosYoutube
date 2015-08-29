@@ -1,0 +1,14 @@
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\bin\Debug\WpfMvvM.exe.config
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\bin\Debug\WpfMvvM.exe
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\bin\Debug\WpfMvvM.pdb
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\MainWindow.baml
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\MainWindow.g.cs
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\App.g.cs
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM_MarkupCompile.cache
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.g.resources
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.Properties.Resources.resources
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.csproj.GenerateResource.Cache
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.exe
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM.pdb
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oscar\Documents\Visual Studio 2013\Projects\WpfMvvM\WpfMvvM\obj\Debug\WpfMvvM_MarkupCompile.lref
