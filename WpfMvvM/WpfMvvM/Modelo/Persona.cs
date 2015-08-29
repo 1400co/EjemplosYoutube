@@ -11,7 +11,7 @@ namespace WpfMvvM.Modelo
 
         public Persona()
         {
-
+            //orale
         }
 
         private string  nombres;
